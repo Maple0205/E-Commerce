@@ -1,0 +1,10 @@
+# dev_env
+DEBUG=False
+# Database
+DATABASE_USER='root'
+DATABASE_PASSWORD='123456'
+DATABASE_HOST='host.docker.internal'
+# Redis
+# REDIS_LOCATION='redis://127.0.0.1:6379'
+DATABASE_NAME='ee_shopping'
+ALLOWED_HOSTS='["localhost", "127.0.0.1", "0.0.0.0"]'
