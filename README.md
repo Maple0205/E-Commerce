@@ -1,3 +1,7 @@
+Settings:
+  set your email in 'settings.py' file
+  set your production env in 'envs/pro_env' if need
+
 Deploy:
   //enter the directory
   cd backend

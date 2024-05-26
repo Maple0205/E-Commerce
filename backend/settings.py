@@ -194,8 +194,8 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'info@eesupply.com.au'
-EMAIL_HOST_PASSWORD = 'mtqz nddt igmd ynrl'
+EMAIL_HOST_USER = 'youe email'
+EMAIL_HOST_PASSWORD = 'youe password'
 
 # settings.py
 # LOGGING = {
